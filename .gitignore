@@ -9,4 +9,4 @@ data/raw/
 *.db
 
 # Jupyter
-.ipynb_checkpoints/
+.ipynb_checkpoints/venv-rugby-analysis/
